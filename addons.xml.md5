@@ -1,11 +1,1 @@
-addons.xml.md5
-
-import hashlib
-
-with open("addons.xml", "rb") as f:
-    md5 = hashlib.md5(f.read()).hexdigest()
-
-with open("addons.xml.md5", "w") as f:
-    f.write(md5)
-
-print(md5)
+00000000000000000000000000000000
