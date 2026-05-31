@@ -1,3 +1,5 @@
+plugin.video.rmtvgold/addon.xml
+
 <addon id="plugin.video.rmtvgold"
     name="RM TV GOLD"
     version="1.0.0"
